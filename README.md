@@ -1,14 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Nazim Bashir</h1>
-
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
-
 <h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the Corporate IT Sector.
 
 <p align="center">
   <a href="https://github.com/devopsnazim">
-    <img src="https://img.shields.io/github/followers/devopsnazim?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/zkitzon">
     <img src="https://img.shields.io/badge/LinkedIn-Nazim%20Bashir-blue?logo=linkedin&style=flat-square" />
