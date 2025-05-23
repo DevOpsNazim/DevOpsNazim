@@ -30,10 +30,6 @@
 </p>
 
 ---
-## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/devopsnazim)  
-
-![tech](https://imgur.com/RknLHXQ.png)
-
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
