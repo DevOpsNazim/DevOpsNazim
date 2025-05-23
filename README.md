@@ -1,4 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Nazim Bashir</h1>
+<div align="center">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Devops engineer.png" alt="DevOpsShack Banner">
+</div>
 <h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the Corporate IT Sector.
 
 <p align="center">
