@@ -50,7 +50,7 @@
 ---
 ---
 
-![](https://img.shields.io/badge/DevOps%20Streak-Active-brightgreen?&style=for-the-badge)
+![](https://img.shields.io/badge/DevOps%20-Active-brightgreen%20-Streak?&style=for-the-badge)
   
 Languages and Tools:
  
