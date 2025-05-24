@@ -1,5 +1,3 @@
-
-# **🚀 About Me** 
 <h1 align="center">Hey Everyone 👋, I'm Nazim Bashir</h1>
 <div align="center">
   <img src="https://github.com/devopsnazim/devopsnazim/blob/main/Banner.png" alt="DevOps Banner">
@@ -13,7 +11,7 @@
 - DevOps Engineer from Pakistan.
 - I work in the Corporate IT Sector.
 
-  ![](https://img.shields.io/badge/Certifications%20-Active-brightgreen?&style=for-the-badge)
+![](https://img.shields.io/badge/Certifications%20-Active-brightgreen?&style=for-the-badge)
   
 - DevOps Solutions Expert Professional
 - AWS & Azure Solutions Architect Expert
