@@ -49,10 +49,10 @@
 
 ---
 ---
-<h3 align="left">
-![](https://img.shields.io/badge/Certifications%20-Active-brightgreen?&style=for-the-badge)
+
+![](https://img.shields.io/badge/DevOps%20Streak-Active-brightgreen?&style=for-the-badge)
   
-Languages and Tools:</h3>
+Languages and Tools:
  
 ![tech](https://imgur.com/RknLHXQ.png)
 
