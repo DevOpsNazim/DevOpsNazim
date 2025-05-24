@@ -13,7 +13,7 @@
 - DevOps Engineer from Pakistan.
 - I work in the Corporate IT Sector.
 
-  ![GitHub Streak Badge](https://img.shields.io/badge/Certifications%20-Active-brightgreen?logo=github&style=for-the-badge)
+  !(https://img.shields.io/badge/Certifications%20-Active-brightgreen?logo=github&style=for-the-badge)
   
   
 - DevOps Solutions Expert Professional
