@@ -13,10 +13,8 @@
 - DevOps Engineer from Pakistan.
 - I work in the Corporate IT Sector.
 
-  ![Badge](https://img.shields.io/badge/dynamic/regex/Certifications%20-Active-brightgreen?logo=github&style=for-the-badge)
+  (https://img.shields.io/badge/Certifications%20-Active-brightgreen?logo=github&style=for-the-badge)
   
-  
-https://img.shields.io/badge/
 - DevOps Solutions Expert Professional
 - AWS & Azure Solutions Architect Expert
 - AWS Certified DOP-C02
