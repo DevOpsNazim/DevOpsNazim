@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/devopsnazim/devopsnazim/blob/main/Banner.png" alt="DevOps Banner">
 </div>
-<h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the Corporate IT Sector.
+<h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the Corporate IT Sector. DevOps Solutions Expert Professional | AWS & Azure Solutions Architect Expert | AWS Certified DOP-C02 | AWS Certified SAA-C03 | Microsoft AZURE Certified AZ-400 | AZ-104 | AZ-305 | AZ-900
 
 <p align="center">
   <a href="https://github.com/devopsnazim">
