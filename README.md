@@ -24,14 +24,12 @@
 - AZ-305
 - AZ-900
   </h3>
-  <a href="https://github.com/devopsnazim">
+<a href="https://github.com/devopsnazim">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/zkitzon">
+</a>
+<a href="https://linkedin.com/in/zkitzon">
     <img src="https://img.shields.io/badge/LinkedIn-Nazim%20Bashir-blue?logo=linkedin&style=flat-square" />
-  </a>
-
-
+</a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
