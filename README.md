@@ -12,8 +12,9 @@
 
 - DevOps Engineer from Pakistan.
 - I work in the Corporate IT Sector.
-  <h3 align="left">
-  Certifications
+
+  ![Certifications Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+  
   
 - DevOps Solutions Expert Professional
 - AWS & Azure Solutions Architect Expert
@@ -23,7 +24,7 @@
 - AZ-104
 - AZ-305
 - AZ-900
-  </h3>
+  
 <a href="https://github.com/devopsnazim">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
 </a>
