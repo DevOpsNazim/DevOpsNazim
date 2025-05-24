@@ -5,10 +5,10 @@
   <img src="https://github.com/devopsnazim/devopsnazim/blob/main/Banner.png" alt="DevOps Banner">
 </div> 
   <p align="center">
-Empowering businesses through smart, scalable, and secure technology solutions.
-From web and app development to cloud infrastructure, DevOps, and cybersecurity, we deliver IT services tailored to elevate your business operations.Our certified experts collaborate closely with clients to craft impactful, results-driven solutions. With 24/7 support and a commitment to excellence, your success is our mission. A passionate DevOps Engineer from Pakistan.
+- Empowering businesses through smart, scalable, and secure technology solutions.
+- From web and app development to cloud infrastructure, DevOps, and cybersecurity, we deliver IT services tailored to elevate your business operations.Our certified experts collaborate - - closely with clients to craft impactful, results-driven solutions. With 24/7 support and a commitment to excellence, your success is our mission. A passionate DevOps Engineer from Pakistan.
 
-I work in the Corporate IT Sector having certifications DevOps Solutions Expert Professional | AWS & Azure Solutions Architect Expert | AWS Certified DOP-C02 | AWS Certified SAA-C03 | Microsoft AZURE Certified AZ-400 | AZ-104 | AZ-305 | AZ-900
+- I work in the Corporate IT Sector having certifications DevOps Solutions Expert Professional | AWS & Azure Solutions Architect Expert | AWS Certified DOP-C02 | AWS Certified SAA-C03 | - Microsoft AZURE Certified AZ-400 | AZ-104 | AZ-305 | AZ-900
 </p>
 <p align="center">
   <a href="https://github.com/devopsnazim">
