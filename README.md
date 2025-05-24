@@ -50,8 +50,9 @@
 ---
 ---
 <h3 align="left">
-  ![](https://img.shields.io/badge/DevOps%20-Streak-brightgreen?&style=for-the-badge)
-  Languages and Tools:</h3>
+![](https://img.shields.io/badge/Certifications%20-Active-brightgreen?&style=for-the-badge)
+  
+Languages and Tools:</h3>
  
 ![tech](https://imgur.com/RknLHXQ.png)
 
