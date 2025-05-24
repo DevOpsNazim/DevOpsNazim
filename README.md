@@ -48,10 +48,9 @@
 </p>
 
 ---
----
+---  
+![](https://img.shields.io/badge/DevOps%20-Stack-brightgreen?&style=for-the-badge)
 
-![](https://img.shields.io/badge/DevOps%20-Streak-brightgreen?&style=for-the-badge)
-  
 <h3 align="left">Languages and Tools:</h3>
  
 ![tech](https://imgur.com/RknLHXQ.png)
