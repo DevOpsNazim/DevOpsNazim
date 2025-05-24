@@ -11,7 +11,19 @@
 - With 24/7 support and a commitment to excellence, your success is our mission. A passionate
 
 - DevOps Engineer from Pakistan.
-- I work in the Corporate IT Sector having certifications DevOps Solutions Expert Professional | AWS & Azure Solutions Architect Expert | AWS Certified DOP-C02 | AWS Certified SAA-C03 | - Microsoft AZURE Certified AZ-400 | AZ-104 | AZ-305 | AZ-900
+- I work in the Corporate IT Sector.
+  <h3 align="left">
+  certifications
+  
+- DevOps Solutions Expert Professional
+- AWS & Azure Solutions Architect Expert
+- AWS Certified DOP-C02
+- AWS Certified SAA-C03
+- Microsoft AZURE Certified AZ-400
+- AZ-104
+- AZ-305
+- AZ-900
+  </h3>
 <p align="center">
   <a href="https://github.com/devopsnazim">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
