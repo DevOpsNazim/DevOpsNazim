@@ -13,7 +13,7 @@
 - DevOps Engineer from Pakistan.
 - I work in the Corporate IT Sector.
   <h3 align="left">
-  certifications
+  Certifications
   
 - DevOps Solutions Expert Professional
 - AWS & Azure Solutions Architect Expert
