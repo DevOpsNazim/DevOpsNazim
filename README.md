@@ -4,8 +4,6 @@
 <div align="center">
   <img src="https://github.com/devopsnazim/devopsnazim/blob/main/Banner.png" alt="DevOps Banner">
 </div> 
-
-<h3 align="center">
   <p align="center">
 Empowering businesses through smart, scalable, and secure technology solutions.
 From web and app development to cloud infrastructure, DevOps, and cybersecurity, we deliver IT services tailored to elevate your business operations.Our certified experts collaborate closely with clients to craft impactful, results-driven solutions. With 24/7 support and a commitment to excellence, your success is our mission. A passionate DevOps Engineer from Pakistan.
